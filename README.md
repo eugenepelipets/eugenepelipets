@@ -1,16 +1,15 @@
-## Hi there 👋
+# Eugene Pelipets
 
-<!--
-**eugenepelipets/eugenepelipets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Go Backend Engineer · System Design · Product Thinking**
 
-Here are some ideas to get you started:
+I design and build backend systems in Go, focusing on reliability, data consistency, and pragmatic architecture. My background in banking and analytics helps me connect technical decisions with real-world business needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Engineering Focus
+
+Concurrency · Data Consistency · Reliable Messaging · System Design · Event-Driven Architecture
+
+### Currently
+
+Building backend software in Go and exploring distributed systems, fault tolerance, and scalable architectures.
+
+**Open to remote Go backend engineering opportunities.**
