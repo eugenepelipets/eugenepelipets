@@ -10,6 +10,6 @@ Concurrency · Data Consistency · Reliable Messaging · System Design · Event-
 
 ### Currently
 
-Building backend software in Go and exploring distributed systems, fault tolerance, and scalable architectures.
+Building Go projects with an emphasis on reliable message processing, persistence, and fault tolerance.
 
 **Open to remote Go backend engineering opportunities.**
